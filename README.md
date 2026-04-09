@@ -231,23 +231,6 @@ Includes:
 
 ---
 
-## Repository Structure
-
-```
-├── mda_analysis.py
-│   # Full pipeline: loading → PCA → backtest → strategies
-
-├── images/
-│   ├── pca_explained_variance.png
-│   ├── pca_loadings.png
-│   ├── factor_timeseries.png
-│   ├── slope_scatter_regime.png
-│   ├── vix_pnl.png
-│   └── calendar_pnl_drawdown.png
-
-└── README.md
----
-
 ## Closing Remark
 
 This project is built around a single empirical observation:
