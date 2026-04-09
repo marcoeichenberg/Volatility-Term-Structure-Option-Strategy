@@ -246,19 +246,6 @@ Includes:
 │   └── calendar_pnl_drawdown.png
 
 └── README.md
-```
-
----
-
-## Data Availability
-
-Due to size, datasets are not included:
-
-* `df_fwd_full.csv`
-* `VX_full_1day_continuous_absolute_adjusted.csv`
-
-Paths can be configured in the **CONFIGURATION block** at the top of `mda_analysis.py`.
-
 ---
 
 ## Closing Remark
